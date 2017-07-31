@@ -1,0 +1,42 @@
+a{
+	text-decoration:none;
+	color:black;
+}
+a:visited{
+	color:gray;
+}
+a:hover{
+	text-decoration:underline;
+}
+.top{
+	color:gray;
+	
+}
+#main{
+	width:960px;
+	margin:0px auto;
+	font-size:14px;
+	font-family:Verdana, Arial, Helvetica, sans-serif, "微軟正黑體";
+	background-color:white;
+	padding:10px 20px;
+}
+table{
+	margin:0px auto;
+}
+body{
+	background-color:gray;
+}
+tr:hover{
+	background:#CFC
+}
+td.cen {
+	text-align:center;
+}
+td{
+	padding-right:0.25em;
+	padding-left:0.25em;
+}
+th{
+	border-bottom:1px solid;
+	font-size:16px;
+}
